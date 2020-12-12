@@ -1,4 +1,4 @@
-# Stackery Blank SAM Template 
+# Stackery Blank SAM Template  2
 
 This is a sample template for a serverless AWS Lambda application.
 
